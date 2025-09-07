@@ -105,7 +105,7 @@
   },
   "197": {
     "inputs": {
-      "output_path": "../stoxx/output",
+      "output_path": "",
       "filename_prefix": "",
       "filename_delimiter": "",
       "filename_number_padding": 1,
