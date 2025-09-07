@@ -1,5 +1,8 @@
 # ComfyUI CSV → Image (local only)
 
+### 🔗 Website
+**Free AI stock images:** [stoxx.io](https://stoxx.io)
+
 Batch-generate images with **ComfyUI** from a CSV of prompts using an existing workflow.
 - Place these files in the **main ComfyUI folder** (same directory as `main.py`)
 - Images are saved in ComfyUI’s default `output/` folder
